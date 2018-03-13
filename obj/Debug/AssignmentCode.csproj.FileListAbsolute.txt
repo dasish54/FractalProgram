@@ -1,0 +1,10 @@
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.Form1.resources
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.Properties.Resources.resources
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.csproj.GenerateResource.Cache
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\bin\Debug\AssignmentCode.exe.config
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\bin\Debug\AssignmentCode.exe
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\bin\Debug\AssignmentCode.pdb
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.exe
+C:\Users\John\source\repos\AssignmentCode\AssignmentCode\obj\Debug\AssignmentCode.pdb
